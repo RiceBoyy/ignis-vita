@@ -1,3 +1,21 @@
+# Env vars
+.env
+.env.*
+
+# Local builds
+dist/
+build/
+
+# Firebase & Expo
+firebase-debug.log
+*.firebaserc
+.expo/
+web-build/
+
+# Editors
+.vscode/
+.idea/
+
 # Logs
 logs
 *.log
